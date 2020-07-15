@@ -10,4 +10,4 @@ You may find the **code to fill cells in LAB2 and LAB3** in these gists: https:/
 
 Cells are numbered accordingly and should match the numbers in the gists and the number in the PDF guide.
 
-`load.csv` is needed for LAB4.
+`loan.csv` is needed for LAB4.
